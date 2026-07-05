@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background Ocean Circle -->
+  <circle cx="50" cy="50" r="46" fill="#0c162c" stroke="#00f3ff" stroke-width="4"/>
+  
+  <!-- Stylized Yacht Waves (bottom lines) -->
+  <path d="M 25 70 Q 37.5 66 50 70 Q 62.5 74 75 70" fill="none" stroke="#f8fafc" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 20 78 Q 35 74 50 78 Q 65 82 80 78" fill="none" stroke="#00f3ff" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+
+  <!-- Glowing Lightning Bolt -->
+  <path d="M52 18 L32 50 L48 50 L38 80 L68 44 L52 44 Z" fill="#00f3ff" filter="drop-shadow(0px 0px 4px rgba(0, 243, 255, 0.8))"/>
+</svg>
