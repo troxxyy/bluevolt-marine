@@ -1,0 +1,23 @@
+{
+  "name": "bluevolt-marine",
+  "version": "1.0.0",
+  "description": "Bluevolt Marin - Yacht Electrical & Electronic Board Repair Bodrum",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/troxxyy/bluevolt-marine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/troxxyy/bluevolt-marine/issues"
+  },
+  "homepage": "https://github.com/troxxyy/bluevolt-marine#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
