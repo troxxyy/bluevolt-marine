@@ -1,5 +1,5 @@
 /* ==========================================================================
-   BLUEVOLT MARINE - INTERACTIVE SCRIPT
+   BLUEVOLT MARIN - INTERACTIVE SCRIPT
    Handles: Bilingual Switcher, Mobile Menu, FAQ Accordion, WhatsApp Generator, Live Telemetry Simulation
    ========================================================================== */
 
@@ -104,7 +104,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Create the message template
     let text = '';
     if (isEn) {
-      text = `⚡ *Bluevolt Marine Service Request* ⚡\n\n` +
+      text = `⚡ *Bluevolt Marin Service Request* ⚡\n\n` +
              `• *Captain/Client:* ${name}\n` +
              `• *Yacht Name/Model:* ${yacht}\n` +
              `• *Location:* ${location}\n` +
@@ -112,7 +112,7 @@ document.addEventListener('DOMContentLoaded', () => {
              `💬 *Description:* ${message}\n\n` +
              `_Sent via bluevoltmarine.com_`;
     } else {
-      text = `⚡ *Bluevolt Marine Teknik Servis Talebi* ⚡\n\n` +
+      text = `⚡ *Bluevolt Marin Teknik Servis Talebi* ⚡\n\n` +
              `• *Kaptan/Müşteri:* ${name}\n` +
              `• *Yat Adı/Modeli:* ${yacht}\n` +
              `• *Mevcut Konum:* ${location}\n` +

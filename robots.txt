@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bluevolt-marine.vercel.app/sitemap.xml
+Sitemap: https://bluevoltmarin.com/sitemap.xml
